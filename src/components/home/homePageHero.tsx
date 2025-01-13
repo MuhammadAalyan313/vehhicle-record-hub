@@ -9,7 +9,7 @@ const HomePageHero = () => {
   return (
     <section>
       <Container className="flex items-center relative">
-       
+
         <div className="grid lg:grid-cols-2 grid-cols-1 gap-6 items-center">
           <motion.div
             initial={{
@@ -27,14 +27,10 @@ const HomePageHero = () => {
             className="col-span-1 space-y-2 lg:text-left text-center"
           >
             <Typography tag="h1" variant={"h1"}>
-              Helping You Find the Perfect Vehicle
+              The History You Need, The Confidence You Want!
             </Typography>
             <Paragraph>
-              Discover peace of mind with our comprehensive vehicle history
-              reports. Our user-friendly platform provides you with reliable
-              information, ensuring you make an informed decision when buying a
-              used vehicle. Let us help you avoid surprises and find the right
-              car.
+              Comprehensive vehicle history reports offer buyers and sellers the transparency, trust, and clarity needed for confident, informed decisions.
             </Paragraph>
           </motion.div>
           <motion.div

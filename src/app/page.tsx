@@ -8,8 +8,8 @@ import Review from "@/components/review";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Elite Record Hub - Comprehensive Vehicle History Reports",
-  description: "Get detailed vehicle history reports with Elite Record Hub. Protect your investment by accessing accident history, maintenance records, and more to make informed car-buying decisions.",
+  title: "Vehicle Record Hub - Comprehensive Vehicle History Reports",
+  description: "Get detailed vehicle history reports with Vehicle Record Hub. Protect your investment by accessing accident history, maintenance records, and more to make informed car-buying decisions.",
 };
 export default function Home() {
   return (
