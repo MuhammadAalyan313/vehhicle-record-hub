@@ -5,8 +5,8 @@ import { Metadata } from "next";
 import HeroSection from "./_component/heroSection";
 
 export const metadata: Metadata = {
-  title: "About Elite Vehicle Check - Your Trusted Vehicle History Service",
-  description: "Learn about Elite Vehicle Check's commitment to transparency in used car purchases. We provide detailed insights into a vehicle's past to help you buy with confidence.",
+  title: "About Vehicle Record Hub - Your Trusted Vehicle History Service",
+  description: "Learn about Vehicle Record Hub's commitment to transparency in used car purchases. We provide detailed insights into a vehicle's past to help you buy with confidence.",
 };
 
 const Page = () => {
