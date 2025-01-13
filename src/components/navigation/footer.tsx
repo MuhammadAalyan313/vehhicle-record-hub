@@ -63,7 +63,7 @@ const Footer = () => {
             <menu className="mt-4 space-y-4 flex flex-col items-center">
               <li className="flex gap-x-2 items-center">
                 <Mail />
-                <a href="#">info@elitevehiclecheck.com</a>
+                <a href="#">Info@vehiclerecordhub</a>
               </li>
               <li className="flex gap-x-2 items-center">
                 <Phone /> <a href="#">+1 9122965428</a>

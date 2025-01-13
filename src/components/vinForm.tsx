@@ -79,7 +79,7 @@ const VinForm = () => {
         <div className="space-y-1.5">
           <CardTitle>Get Report</CardTitle>
           <CardDescription>
-            Get vehicle VIN report by submitting your request
+          Reveal Your Vehicle's Past Now
           </CardDescription>
         </div>
         <RadioGroup

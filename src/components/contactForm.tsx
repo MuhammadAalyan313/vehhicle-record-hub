@@ -198,7 +198,7 @@ const ContactForm = () => {
                   Chat to us
                 </Typography>
                 <Paragraph>Our friendly team is here to help.</Paragraph>
-                <span>info@elitevehiclecheck.com</span>
+                <span>Info@vehiclerecordhub</span>
               </div>
             </div>
             <div className="flex gap-x-4">

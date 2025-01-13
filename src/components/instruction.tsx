@@ -30,10 +30,10 @@ const Instruction = () => {
           className="max-w-5xl mx-auto text-center space-y-3"
         >
           <Typography tag="h2" variant={"h2"}>
-            Choose wisely
+          Trustworthy Data
           </Typography>
           <Paragraph>
-            Make informed decisions with Vehicle Record Hub. Our detailed reports provide essential insights into a vehicle’s history, helping you avoid costly surprises and ensuring peace of mind. Trust our data to guide you in choosing a reliable car that meets your needs.
+          Vehicle Record Hub is the ultimate tool for both buyers and sellers, offering detailed vehicle history reports that ensure transparency and trust. Sellers can present their vehicles with confidence, knowing that the buyer has all the information.
           </Paragraph>
         </motion.div>
         <Carousel
